@@ -9,4 +9,6 @@ Entrada de Dados: Os usuários podem inserir uma lista de valores numéricos par
 Cálculo Instantâneo: Com apenas um clique, a calculadora fornece a média dos valores inseridos de forma imediata.
 Exibição Clara: O resultado do cálculo é exibido de maneira clara e legível, garantindo uma ótima experiência ao usuário.
 
+Confira: [Calculadora de médias](https://projeto-calculadora-medias-mocha-phi.vercel.app/)
+
 <img src="https://github.com/AndBalbino/AndBalbino/assets/113153237/40634936-7995-4695-8293-3b4d699764c3"/> 
